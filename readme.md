@@ -1,6 +1,6 @@
 # Hard LeetCode Problems
 
-My solutions to hard LeetCode problems.
+My solutions to hard LeetCode problems (hard from my perspective, not necessarily classified as hard by LeetCode).
 
 ## Problems
 
