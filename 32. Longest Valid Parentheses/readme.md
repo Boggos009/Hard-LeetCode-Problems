@@ -1,7 +1,7 @@
-Intuition
+# Intuition
 We can use DP where dp[i] represents the length of the longest valid parentheses substring that ends at index i.
 
-Approach
+# Approach
 We update dp[i] only when s[i] == ')'.
 
 If the previous character is '(', then we found a valid "()" pair:
@@ -15,6 +15,6 @@ j = i - prev - 1
 If j >= 0 and s[j] == '(', then we extend the valid substring:
 dp[i] = dp[i-1] + 2 + dp[j-1]
 
-Complexity
-Time complexity: O(n)
-Space complexity: O(n)
+# Complexity
+- Time complexity: O(n)
+- Space complexity: O(n)
