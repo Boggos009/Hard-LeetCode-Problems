@@ -4,6 +4,9 @@ My solutions to hard LeetCode problems (hard from my perspective, not necessaril
 
 ## Problems
 
-1. [460. LFU Cache](./460.%20LFU%20Cache)
+| #   | Problem                                                            |
+| --- | ------------------------------------------------------------------ |
+| 32  | [Longest Valid Parentheses](./32.%20Longest%20Valid%20Parentheses) |
+| 460 | [LFU Cache](./460.%20LFU%20Cache)                                  |
 
 More problems will be added over time.
