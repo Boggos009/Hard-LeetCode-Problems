@@ -8,4 +8,4 @@
 
 More problems will be added over time.
 
-You can see all these solutions in my LeetCode account: :contentReference[oaicite:0]{index=0}
+You can see all these solutions in my LeetCode account: [LeetCode Profile](https://leetcode.com/Boggos)
