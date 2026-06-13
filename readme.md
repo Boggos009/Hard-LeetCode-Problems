@@ -8,6 +8,7 @@ My solutions to hard LeetCode problems (hard from my perspective, not necessaril
 | --- | ------------------------------------------------------------------ |
 | 32  | [Longest Valid Parentheses](./32.%20Longest%20Valid%20Parentheses) |
 | 460 | [LFU Cache](./460.%20LFU%20Cache)                                  |
+| 1671 | [Minimum Number of Removals to Make Mountain Array](./1671.%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array) |
 | 2707 | [Extra Characters in a String](./2707.%20Extra%20Characters%20in%20a%20String) |
 
 More problems will be added over time.
