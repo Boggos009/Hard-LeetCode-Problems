@@ -1,7 +1,8 @@
 # Intuition
 
-1-U need to solve LC300. Longest Increasing Subsequence and know its both solution (DP , binary search) , if u need any help u can watch this video from neetcode for the DP solution`O(n²)`: https://www.youtube.com/watch?v=cjWnW0hdF1Y&source_ve_path=OTY3MTQ&embeds_referring_euri=https%3A%2F%2Fneetcode.io%2F
-or this video from Techdose for the binary search solution`O(n log n)`:
+1-U need to solve LC300. Longest Increasing Subsequence and know its both solution (DP , binary search) , if u need any help 
+* u can watch this video from neetcode for the DP solution`O(n²)`: https://www.youtube.com/watch?v=cjWnW0hdF1Y&source_ve_path=OTY3MTQ&embeds_referring_euri=https%3A%2F%2Fneetcode.io%2F 
+* or this video from Techdose for the binary search solution`O(n log n)`:
 https://www.youtube.com/watch?v=OIU8ZLC4qIQ
 
 2-from the previous point u can solve this problem by consider every index `i` as the peak of a mountain. For a valid mountain:
